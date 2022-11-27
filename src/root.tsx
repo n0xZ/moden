@@ -13,8 +13,8 @@ import {
   Title,
 } from "solid-start";
 
-import 'virtual:uno.css'
 import '@unocss/reset/antfu.css'
+import 'virtual:uno.css'
 
 export default function Root() {
   return (
